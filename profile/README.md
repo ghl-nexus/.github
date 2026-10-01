@@ -4,10 +4,11 @@
 
 GHL Nexus was an independently designed and built platform that continuously ingested, normalized, indexed, and retrieved technical knowledge from across the HighLevel ecosystem.
 
-The system was built by a solo developer in approximately three weeks and processed more than **3,000 knowledge-base and API documentation pages**.
+The system was built by a solo developer in ~3 weeks and processed more than **3,500 knowledge-base and API documentation pages**.
 
 > **Project Status:** Archived
 > The commercial application is no longer actively maintained. The public website remains available as a historical product artifact.
+> Live artifact: [https://ghl.nexus](https://ghl.nexus/)
 
 ## What Nexus Did
 
