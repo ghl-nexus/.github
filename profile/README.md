@@ -56,4 +56,3 @@ flowchart TD
 
     L --> N[Grounded Technical Guidance]
     M --> O[API / Webhook / JavaScript Output]
-    ```
