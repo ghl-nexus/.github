@@ -36,7 +36,7 @@ flowchart TD
 
     A[HighLevel Knowledge Base]
     B[API Documentation]
-    C[Platform Documentation]
+    C[LeadConnector Documentation]
 
     A --> D[Automated Ingestion]
     B --> D
